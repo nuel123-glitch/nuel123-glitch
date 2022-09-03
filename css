@@ -1,1 +1,56 @@
+body {
+  
+  text-align: center;
+  background: #016f32;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', sans-sarif;
+}
+
+h1 {
+  
+  color: goldenrod;
+  
+  
+}
+
+p {
+  
+  color: white;
+  
+}
+
+#message-el {
+  
+  font-style: italic;
+}
+
+button {
+  
+  background: goldenrod;
+  color: #016f32;
+  width: 150px;
+  border: none;
+  padding: 5px 0px;
+  font-weight: bold;
+  border-radius: 2px;
+  margin: 0 auto 5px;
+  
+}
+
+#btn-div {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  
+}
+
+#game-over {
+  
+  margin-top: 0px;
+  font-style: italic;
+  color: goldenrod;
+  height: 100px;
+}
 
